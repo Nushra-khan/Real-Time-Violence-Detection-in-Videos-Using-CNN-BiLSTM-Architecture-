@@ -21,7 +21,7 @@ This project is a deep learning-based violence detection system that automatical
 - **Classes**: `Violence`, `NonViolence`
 - **Format**: MP4 videos
 
-[Kaggle Dataset Link](https://www.kaggle.com/datasets/mohamedbakhet/real-life-violence-situations-dataset)
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset)
 
 ---
 
