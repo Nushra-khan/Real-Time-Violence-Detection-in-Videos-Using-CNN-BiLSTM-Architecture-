@@ -1,0 +1,1 @@
+# Real-Time-Violence-Detection-in-Videos-Using-CNN-BiLSTM-Architecture-
